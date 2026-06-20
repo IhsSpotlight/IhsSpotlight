@@ -1,17 +1,24 @@
 # 👋 Hi, I'm IMAM HOSSAIN SHABBIR
 
-### 🔐 Cyber Security Engineer | Android Developer (Kotlin)
+### 🔐 Cyber Security Aspirant | Pentester
 
 ---
 
 ##  About Me
 
-* 🛡️ Passionate about **secure app development & vulnerability testing**
+* 🛡️ Passionate about **securing Online infrastructure & vulnerability testing**
 * ⚡ I build projects to **learn, break, and secure systems**
 
 ---
 
 ## 🧠 Core Skills
+
+### 🔐 Cyber Security
+
+* Ethical Hacking & Penetration Testing
+* Web Security Testing
+* Vulnerability Assessment
+* Network security
 
 ### 📱 Android Development
 
@@ -19,13 +26,6 @@
 * MVVM Architecture
 * Firebase, Room Database
 * REST API Integration (Retrofit)
-
-### 🔐 Cyber Security
-
-* Ethical Hacking & Penetration Testing
-* Web Security Testing
-* Vulnerability Assessment
-* Secure Web Development
 
 ### 💻 Programming & Tools
 
